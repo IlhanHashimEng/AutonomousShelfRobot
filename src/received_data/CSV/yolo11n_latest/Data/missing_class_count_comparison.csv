@@ -1,0 +1,17 @@
+class_name,count_expected,count_generated,missing_count,accuracy (%)
+7up_med,8,7,1,87.5
+TOTAL,70,67,3,95.71
+a&w_small,7,7,0,100.0
+anw_med,6,6,0,100.0
+coke_med,5,5,0,100.0
+coke_small,6,6,0,100.0
+coke_v_big,5,5,0,100.0
+coke_v_med,3,3,0,100.0
+coke_z_big,2,2,0,100.0
+fanta_grape_big,3,3,0,100.0
+fanta_lychee_big,2,1,1,50.0
+fanta_straw_big,2,2,0,100.0
+kick_med,8,7,1,87.5
+pepsi_big,3,3,0,100.0
+pepsi_med,6,6,0,100.0
+sprite_small,4,4,0,100.0

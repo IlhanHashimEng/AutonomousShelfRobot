@@ -1,0 +1,8 @@
+
+--- Detection Summary ---
+Total Frames Processed: 204
+Total Objects Detected: 66
+Total Racks Detected in Last Frame: 3
+CSV Output File: received_data\CSV\detection_results_1.csv
+Average FPS: 29.04
+Inference Time : 0.01908230 seconds

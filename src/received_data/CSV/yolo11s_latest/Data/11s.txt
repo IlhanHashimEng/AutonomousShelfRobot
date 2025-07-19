@@ -1,0 +1,8 @@
+✅ Overall Detection Accuracy: 94.29%
+
+--- Missing Class Comparison with Accuracy ---
+      class_name  count_expected  count_generated  missing_count  accuracy (%)
+         7up_med               8                6              2         75.00
+           TOTAL              70               66              4         94.29
+fanta_lychee_big               2                1              1         50.00
+        kick_med               8                7              1         87.50
