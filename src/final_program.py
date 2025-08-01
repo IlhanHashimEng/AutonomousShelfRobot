@@ -486,7 +486,7 @@ def generate_planogram_df_from_racks(df_rack1, df_rack2, df_rack3):
     Returns:
         pd.DataFrame: Formatted planogram DataFrame.
     """
-    from collections import Counter
+    
 
     # Step 1: Combine all racks
     df_all = pd.concat([df_rack1, df_rack2, df_rack3], ignore_index=True)
